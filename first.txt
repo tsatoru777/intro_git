@@ -5,3 +5,4 @@ git‚Ì—ûK
 Egit commit
 Egit rm
 Egit status
+git diff
