@@ -1,2 +1,5 @@
 gitの練習
 ワークフローを学びます
+  https://github.co.jp/ tsatoru777 tsatoru@jp.fujitsu.com どら
+・git add
+・git commit
