@@ -3,4 +3,3 @@ git‚Ì—ûK
   https://github.co.jp/ tsatoru777 tsatoru@jp.fujitsu.com ‚Ç‚ç
 Egit add
 Egit commit
-Egit rm
